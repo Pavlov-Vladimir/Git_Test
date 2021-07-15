@@ -7,7 +7,7 @@ namespace Git_Test
         static void Main(string[] args)
         {
             Console.WriteLine();
-            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello Vasya!");
 
             Console.WriteLine();
 
