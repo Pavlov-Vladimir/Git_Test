@@ -8,6 +8,8 @@ namespace Git_Test
         {
             Console.WriteLine("Hello!");
 
+            Console.WriteLine();
+
             Console.ReadKey();
         }
     }
